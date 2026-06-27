@@ -8,9 +8,9 @@ export default function AuthLayout({
       <div className="w-full max-w-md">
         <div className="mb-8 text-center">
           <div className="mx-auto mb-3 flex h-12 w-12 items-center justify-center rounded-xl bg-indigo-600 text-lg font-bold text-white">
-            GR
+            GG
           </div>
-          <h1 className="text-2xl font-bold text-slate-900">GadgetReach</h1>
+          <h1 className="text-2xl font-bold text-slate-900">Gift Gadget</h1>
           <p className="mt-1 text-sm text-slate-500">
             Digital Marketing System for Gadget Retail
           </p>

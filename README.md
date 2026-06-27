@@ -1,4 +1,4 @@
-# GadgetReach — Digital Marketing System for Gadget Retail Business
+# Gift Gadget — Digital Marketing System for Gadget Retail Business
 
 A working prototype of the **Digital Marketing System for Gift Gadget Retail
 Business** (final-year project). It centralises fragmented marketing activities —
@@ -86,7 +86,7 @@ This creates an admin user, 12 products, 24 customers, 4 segments and 5
 campaigns (3 already sent with delivery logs). Login credentials:
 
 ```
-Email:    gift@gadgetreach.com
+Email:    gift@giftgadget.com
 Password: password123
 ```
 

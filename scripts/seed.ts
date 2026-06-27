@@ -27,7 +27,7 @@ if (!MONGODB_URI) {
 
 const ADMIN = {
   name: "Gift Benson",
-  email: "gift@gadgetreach.com",
+  email: "gift@giftgadget.com",
   password: "password123",
 };
 
@@ -161,7 +161,7 @@ async function main() {
       name: "iPhone 15 Pro Launch",
       channel: "email" as CampaignChannel,
       segment: smartphoneSeg,
-      subject: "🚀 The iPhone 15 Pro has landed at GadgetReach!",
+      subject: "🚀 The iPhone 15 Pro has landed at Gift Gadget!",
       body: "Be among the first in Nigeria to own the titanium iPhone 15 Pro. Pre-order today and get a free AirPods case. Limited stock available!",
       products: [products[0]._id, products[1]._id],
     },
@@ -170,7 +170,7 @@ async function main() {
       channel: "sms" as CampaignChannel,
       segment: audioSeg,
       subject: "Weekend Audio Sale — up to 20% off",
-      body: "This weekend only: 20% off Sony & Apple headphones at GadgetReach. Reply STORE for directions.",
+      body: "This weekend only: 20% off Sony & Apple headphones at Gift Gadget. Reply STORE for directions.",
       products: [products[7]._id, products[8]._id],
     },
     {

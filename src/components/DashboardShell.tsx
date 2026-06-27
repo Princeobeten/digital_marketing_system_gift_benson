@@ -76,9 +76,9 @@ export function DashboardShell({
           </button>
           <div className="flex items-center gap-2">
             <div className="flex h-7 w-7 items-center justify-center rounded-md bg-indigo-600 text-xs font-bold text-white">
-              GR
+              GG
             </div>
-            <span className="text-sm font-bold text-slate-900">GadgetReach</span>
+            <span className="text-sm font-bold text-slate-900">Gift Gadget</span>
           </div>
         </header>
 

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "GadgetReach — Digital Marketing System",
+  title: "Gift Gadget — Digital Marketing System",
   description:
     "Digital Marketing System for Gadget Retail Business — campaigns, customer segmentation, and analytics.",
 };
